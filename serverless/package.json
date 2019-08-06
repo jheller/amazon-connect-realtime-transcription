@@ -1,0 +1,12 @@
+{
+  "name": "wbc-connect-transcribe",
+  "description": "",
+  "version": "0.1.0",
+  "dependencies": {
+    "serverless": "^1.48.2"
+  },
+  "devDependencies": {
+    "serverless-pseudo-parameters": "^2.4.0",
+    "serverless-python-requirements": "^4.3.0"
+  }
+}
